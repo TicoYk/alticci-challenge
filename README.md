@@ -2,9 +2,14 @@
 
 This project uses Quarkus a Java Framework.
 
+## Requirements
+- Java 11+ (Project uses 17)
+- Maven
+- Docker (If you want to use docker)
+
 ## Running the application in dev mode
 
-You can run this application using:
+You can run this application using these commands on the project folder:
 
 ```shell script
 ./mvnw compile quarkus:dev
@@ -12,10 +17,11 @@ You can run this application using:
 or if you want to use docker
 
 ```shell script
+./mvnw package
 docker compose up
 ```
 
-After everything is running you access the app on [localhost:8080](http://localhost:8080)
+After everything is running, you can access the app on [localhost:8080](http://localhost:8080)
 
 
 ## Where is swagger?
