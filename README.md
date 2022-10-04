@@ -23,6 +23,9 @@ docker compose up
 
 After everything is running, you can access the app on [localhost:8080](http://localhost:8080)
 
+## The algorithm solution
+
+You can access through this link **[/alticci/10](http://localhost:8080/alticci/10)**
 
 ## Where is swagger?
 
