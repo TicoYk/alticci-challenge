@@ -16,10 +16,10 @@ or if you want to use docker
 docker compose up
 ```
 
-After everything is running you access the app on [localhost:8080](localhost:8080)
+After everything is running you access the app on [localhost:8080](https://localhost:8080)
 
 
 ## Where is swagger?
 
-You can download the file on [/swagger](localhost:8080/swagger) or you can visit the Swagger UI on [/swagger-ui](localhost:8080/swagger-ui)
+You can download the file on [/swagger](http://localhost:8080/swagger) or you can visit the Swagger UI on [/swagger-ui](http://localhost:8080/swagger-ui)
 
