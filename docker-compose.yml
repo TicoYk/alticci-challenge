@@ -1,0 +1,10 @@
+version: "3"
+services:
+  challenge-container:
+    restart: "always"
+    build:
+      context: "."
+      dockerfile: "./src/main/docker/Dockerfile.jvm"
+    ports:
+      - "8080:8080"
+
