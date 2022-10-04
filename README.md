@@ -16,7 +16,7 @@ or if you want to use docker
 docker compose up
 ```
 
-After everything is running you access the app on [localhost:8080](https://localhost:8080)
+After everything is running you access the app on [localhost:8080](http://localhost:8080)
 
 
 ## Where is swagger?
